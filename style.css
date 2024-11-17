@@ -1,0 +1,42 @@
+#searchField {
+    color: antiquewhite;
+    background-color :cadetblue;
+    padding : 15px;
+    border: 2px solid balck;
+}
+
+body{
+
+    margin:0;
+    background-color: white;
+
+}
+h1{
+    background-color: cadetblue;
+    color: antiquewhite;
+    padding: 25px;
+    text-align:center ;
+    margin-top:0px ;
+}
+
+main{
+    margin: 50px
+
+}
+#results{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+h6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 0px;
+}
+#hero{
+    width: 80%;
+    padding: 15px;
+    border: 10px;
+    color: black;
+    margin: 10px;
+}
